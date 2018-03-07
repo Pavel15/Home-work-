@@ -1,0 +1,29 @@
+    table {
+       border-collapse: collapse;
+    }
+    
+    tr{ 
+        text-align: center;
+    }    
+
+    td {
+        border: 1px solid black;
+        width: 250px;
+    }
+  
+    td.Style { 
+        text-align: left;
+    }
+
+    td.year {
+        font-weight: 900;
+    }
+
+    #Italy {
+        background-color: green;
+        color: white;
+    }
+
+    #end {
+        color: blue;
+    }
